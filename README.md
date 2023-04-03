@@ -1,2 +1,6 @@
 # python-projects
-This repository contains some beginner friendly python challenges.
+
+
+This repository contains beginner friendly python challenges.
+
+### Feedbacks, contributions, and collaborations are highly welcomed. 
